@@ -1,4 +1,4 @@
-# Gustavo Henrique Pires - Analista de Suporte em Segurança Cibernética
+# Analista de Suporte em Segurança Cibernética
 
 Sou um profissional em transição de carreira para a área de **Tecnologia da Informação**, atuando como **Analista de Suporte com foco em Segurança Cibernética**.  
 
