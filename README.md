@@ -7,7 +7,7 @@ Possuo experiência em:
 - **Linguagens:** Java, JavaScript, Python, HTML, CSS  
 - **Frameworks e ferramentas:** Spring Boot, MySQL  
 - **Sistemas:** Windows e Linux (com foco em Kali Linux)  
-- **Outras habilidades:** Criação de conteúdo visual e interativo usando IA  
+- **Outras habilidades:** Criação de conteúdo visual e interativo (Canva e Veo3)
 
 Meus principais pontos fortes incluem **resolução de problemas, aprendizado contínuo e atenção aos detalhes**, permitindo apoiar equipes e usuários na **identificação de vulnerabilidades, resolução de incidentes e manutenção da integridade dos sistemas**.  
 
